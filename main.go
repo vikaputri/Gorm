@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/vikaputri/database"
+	"github.com/vikaputri/Gorm/database"
 )
 
 func main() {
